@@ -10,7 +10,7 @@
 
 <h2> <a href="https://uzum.uz/uz"> Original view <img width="30" src="./.github/arrow/red-sticker-arrow-6.png"></a></h2>
 
-<h2> <a href="#"> Clone view <img width="30" src="./.github/arrow/513e7abd09dd277e9c8b1e91ceab9d5e.png"></a></h2>
+<h2> <a href="https://uzum-market-tau.vercel.app/"> Clone view <img width="30" src="./.github/arrow/513e7abd09dd277e9c8b1e91ceab9d5e.png"></a></h2>
 
 ---
 

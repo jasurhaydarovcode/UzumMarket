@@ -1,0 +1,19 @@
+{
+  "name": "uzum-market",
+  "version": "1.0.0",
+  "description": "Uzum Market Online Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha7darov/UzumMarket.git"
+  },
+  "author": "Jasurbek Haydarov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ha7darov/UzumMarket/issues"
+  },
+  "homepage": "https://github.com/ha7darov/UzumMarket#readme"
+}

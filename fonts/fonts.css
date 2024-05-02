@@ -1,0 +1,9 @@
+@font-face {
+    font-family: InterSemi;
+    src: url(./Inter/Inter-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: InterMedium;
+    src: url(./Inter/Inter-Medium.ttf);
+}

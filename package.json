@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ha7darov/UzumMarket/issues"
   },
-  "homepage": "https://github.com/ha7darov/UzumMarket#readme"
+  "homepage": "https://github.com/ha7darov/UzumMarket#readme",
+  "dependencies": {
+    "css": "^3.0.0",
+    "html": "^1.0.0"
+  }
 }

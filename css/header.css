@@ -33,7 +33,7 @@
   text-decoration: none;
   color: var(--1f-2026--);
   /* font-weight: 550; */
-  font-family: InterSemi,sans-serif;
+  font-family: InterSemi, sans-serif;
 }
 
 .top-header__promo {
@@ -50,7 +50,7 @@
   display: flex;
   align-items: center;
   margin-left: 23px;
-  border: 1px dotted red;
+  border: 1px dashed red;
   a {
     text-decoration: none;
   }
@@ -113,6 +113,51 @@
 }
 
 .theme-text {
-    font-weight: 500;
-    font-family: InterSemi,sans-serif;
+  font-weight: 500;
+  font-family: InterSemi, sans-serif;
+}
+
+.uzumNavOld {
+  width: 100%;
+  padding-top: 15px;
+}
+
+.uzumNavOld__in {
+  margin: 0 auto;
+  max-width: 1240px;
+  min-width: 320px;
+  width: 95%;
+}
+
+.navigation {
+  a {
+    img {
+      width: 215px;
+      height: 32px;
+    }
+  }
+}
+
+.KatalogBTN {
+  width: 120px;
+  height: 40px;
+  border: none;
+  line-height: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #f0f0ff;
+  color: #7000ff;
+  margin-left: 10px;
+}
+
+.KatalogBTN:hover {
+  background-color: #d7d6ff;
+}
+
+.KatalogBTN__in {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  letter-spacing: 1.1px;
 }
